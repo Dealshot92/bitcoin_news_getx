@@ -39,7 +39,7 @@ dependencies:
   http: ^1.2.1
   logger: ^1.1.0
   flutter_slidable: ^3.1.0
-  http_interceptor: 2.0.0-beta.1
+  http_interceptor: 2.0.0-beta.8
   cached_network_image: ^3.3.1
 
 dev_dependencies:
